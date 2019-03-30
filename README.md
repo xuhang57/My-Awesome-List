@@ -22,7 +22,7 @@
 * https://doc.rust-lang.org/
 
 #### Go
-*https://tour.golang.org
+* https://tour.golang.org
 
 #### C++
 
