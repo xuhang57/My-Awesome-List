@@ -11,14 +11,19 @@
 #### Java
 * https://docs.oracle.com/en/java/javase/
 * https://www.geeksforgeeks.org/java/
+
 #### Python
 * https://docs.python.org/3/
+
 #### JavaScript
 
 ### For Fun!
 #### Rust
 * https://doc.rust-lang.org/
+
 #### Go
+*https://tour.golang.org
+
 #### C++
 
 ## MOOCs
@@ -33,11 +38,14 @@
 * https://www.kanxue.com/
 * https://ctf-wiki.github.io/ctf-wiki/
 
-## Front-end developing
-
 ## Cryptography
 
 ## Algorithms and Data Structure
+
+## Operating System
+* https://wiki.osdev.org/
+
+## Front-End Development
 
 ## Blogs and Articles
 
