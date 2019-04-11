@@ -62,6 +62,10 @@
 
 * [CS 61B: Berkeley](datastructur.es)
 
+#### Operating System
+
+*[CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
+
 ## Cybersecurity
 
 #### Platforms
