@@ -64,7 +64,7 @@
 
 #### Operating System
 
-*[CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
+* [CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
 
 ## Cybersecurity
 
