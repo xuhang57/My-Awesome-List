@@ -1,5 +1,7 @@
 # My Awesome List
 
+Not including paid services such as Bloomberg/WSJ, etc.
+
 ## Programming Languages
 
 ### Frequently Used
@@ -8,11 +10,17 @@
 
 * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 * [GeeksForGeeks: C](https://www.geeksforgeeks.org/c-programming-language/)
+* [Wikibook: C Programming](https://en.wikibooks.org/wiki/C_Programming)
+* [Angrave's System Programming Guide in C](https://github.com/angrave/SystemProgramming/wiki/)
 
 #### Java
 
 * [Oracle Docs](https://docs.oracle.com/en/java/javase/)
 * [GeeksForGeeks: Java](https://www.geeksforgeeks.org/java/)
+* [Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home/)
+* [Algorithms in Java](https://algs4.cs.princeton.edu/home/)
+* [Java Guide on Github](https://github.com/Snailclimb/JavaGuide)
+* [Advanced Java in Chinese](https://github.com/doocs/advanced-java)
 
 #### Python
 
@@ -56,42 +64,75 @@
 #### Introduction to CS
 
 * [CS 61A SICP: Berkeley](https://cs61a.org)
-* [CS50: Harvard](https://cs50.harvard.edu/)
+* [CS 50: Harvard](https://cs50.harvard.edu/)
 
 #### Data Structures
 
 * [CS 61B: Berkeley](datastructur.es)
+* [CSE 373: University of Washington](https://courses.cs.washington.edu/courses/cse373/)
+
+#### Algorithms
+
+* [CS 161: Stanford](http://web.stanford.edu/class/cs161/)
 
 ## Cybersecurity
 
-#### Platforms
+### General
 
+* [Hacker101](https://www.hacker101.com/)
 * [看雪论坛](https://www.kanxue.com/)
 * [CTF入门Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 
-## Cryptography
+### Cryptography
 
-## Algorithms and Data Structure
+* [Cryptopals](https://cryptopals.com/)
+* [Learn Cryptography](https://learncryptography.com/encryption)
+
+### Network Security
+
+* [OWASP](https://www.owasp.org/index.php/Main_Page)
+* [Excess XSS](https://excess-xss.com/)
+
+## Algorithm and Data Structure
+
+* [Algorithms 4th Edition](https://algs4.cs.princeton.edu/home/)
+* [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 ## Operating System
 
 * [OSDev Wiki](https://wiki.osdev.org/)
-* [Angrave's System Programming Guide in C](https://github.com/angrave/SystemProgramming/wiki/)
+* [OldLinux](http://www.oldlinux.org/)
+* [x86 Assembly Guide](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
   
+## Compiler
+
+* [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+
+## Networking
+
+## Computer Architecture
+
+* [ProgrammingGroundUp](https://bigsearcher.com/mirrors/nongnu/pgubook/ProgrammingGroundUp-1-0-lettersize.pdf)
+
+## Database
+
 ## Front-End Development
 
-## Blogs and Articles
+## Blogs
 
 * [Matthew Green](https://blog.cryptographyengineering.com/)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-
 * [Hacker News](https://news.ycombinator.com/)
 * [Hacker Noon](https://hackernoon.com/)
 * [Reddit: Programming](https://www.reddit.com/r/programming/)
+* [Github Awesome](https://github.com/sindresorhus/awesome)
+
+## Articles
+
+* [*C Descent* by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Teach Yourself CS](https://teachyourselfcs.com)
 
-
-## Coding OJ and Learning Platform
+## Coding OJs and Learning Platforms
 
 * [Leetcode](https://leetcode.com)
 * [Hackerrank](http://hackerrank.com)
@@ -99,5 +140,3 @@
 * [FreeCodeCamp](https://learn.freecodecamp.org/)
 * [Google Developer Path](https://techdevguide.withgoogle.com/paths/)
 * [VIM Adventures](https://vim-adventures.com/)
-
-## Finance
