@@ -75,6 +75,10 @@ Not including paid services such as Bloomberg/WSJ, etc.
 
 * [CS 161: Stanford](http://web.stanford.edu/class/cs161/)
 
+#### Operating System
+
+* [CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
+
 ## Cybersecurity
 
 ### General
