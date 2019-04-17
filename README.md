@@ -1,7 +1,5 @@
 # My Awesome List
 
-Not including paid services such as Bloomberg/WSJ, etc.
-
 ## Programming Languages
 
 ### Frequently Used
@@ -107,6 +105,7 @@ Not including paid services such as Bloomberg/WSJ, etc.
 * [OSDev Wiki](https://wiki.osdev.org/)
 * [OldLinux](http://www.oldlinux.org/)
 * [x86 Assembly Guide](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
+* [Little OS Book](https://littleosbook.github.io/#first-steps)
   
 ## Compiler
 
