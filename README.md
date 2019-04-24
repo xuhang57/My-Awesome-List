@@ -1,4 +1,4 @@
-# My Awesome List
+# My Awesome List [![Awesome](https://awesome.re/badge.svg)](https://github.com/xuhang57/My-Awesome-List)
 
 ## Programming Languages
 
@@ -55,7 +55,7 @@
 
 * [Devdocs.io](https://devdocs.io/)
 
-## MOOCs
+## MOOCs :nerd_face:
 
 ### Computer Science
 
@@ -84,6 +84,7 @@
 * [Hacker101](https://www.hacker101.com/)
 * [看雪论坛](https://www.kanxue.com/)
 * [CTF入门Wiki](https://ctf-wiki.github.io/ctf-wiki/)
+* [Github: Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 ### Cryptography
 
@@ -99,6 +100,10 @@
 
 * [Algorithms 4th Edition](https://algs4.cs.princeton.edu/home/)
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+* [Quora: Love for Programming](https://loveforprogramming.quora.com/)
+* [Github: Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [A Study Guide](https://workflowy.com/s/wGqavcPQFm)
+* [Github: Awesome Algorithm](https://github.com/tayllan/awesome-algorithms)
 
 ## Operating System
 
@@ -124,6 +129,9 @@
 ## Blogs
 
 * [Matthew Green](https://blog.cryptographyengineering.com/)
+* [Robert Heaton](https://robertheaton.com/)
+* [Joel on Software](https://www.joelonsoftware.com/)
+* [Coding Horror](https://blog.codinghorror.com/)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Hacker News](https://news.ycombinator.com/)
 * [Hacker Noon](https://hackernoon.com/)
@@ -134,6 +142,10 @@
 
 * [*C Descent* by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Teach Yourself CS](https://teachyourselfcs.com)
+
+## Vlogs
+
+* [10 Mins Coding Challenge](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 ## Coding OJs and Learning Platforms
 
