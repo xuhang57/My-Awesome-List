@@ -76,6 +76,28 @@
 
 * [CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
 
+#### Computer Architecture
+
+* [CS152: Berkeley](http://inst.eecs.berkeley.edu/~cs152/)
+
+#### Computer Security
+
+* [CS161: Berkeley](http://inst.eecs.berkeley.edu/~cs161/)
+
+#### Programming Lanuage and Compiler
+
+* [CS164: Berkeley](http://inst.eecs.berkeley.edu/~cs164)
+
+#### Database
+
+* [CS186: Berkeley](http://inst.eecs.berkeley.edu/~cs186/)
+
+#### Distributed Systems
+
+#### Computer Network
+
+* (CS168: Berkeley](http://cs168.io/)
+
 ## Cybersecurity
 
 ### General
@@ -155,3 +177,7 @@
 * [FreeCodeCamp](https://learn.freecodecamp.org/)
 * [Google Developer Path](https://techdevguide.withgoogle.com/paths/)
 * [VIM Adventures](https://vim-adventures.com/)
+
+## References
+
+* [Berkeley EECS Course Catalog](https://www2.eecs.berkeley.edu/Courses/CS/)
