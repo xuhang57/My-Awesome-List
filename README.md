@@ -23,7 +23,6 @@
 #### Python
 
 * [Python Docs](https://docs.python.org/3/)
-
 * [Django](https://www.djangoproject.com/start/overview/)
 * [Flask](http://flask.pocoo.org/)
 
@@ -90,6 +89,7 @@
 
 * [Cryptopals](https://cryptopals.com/)
 * [Learn Cryptography](https://learncryptography.com/encryption)
+* [Cryptographic Best Practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
 
 ### Network Security
 
