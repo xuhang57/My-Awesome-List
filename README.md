@@ -126,6 +126,7 @@
 * [Github: Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [A Study Guide](https://workflowy.com/s/wGqavcPQFm)
 * [Github: Awesome Algorithm](https://github.com/tayllan/awesome-algorithms)
+* [Tutorialhorizon](https://algorithms.tutorialhorizon.com/)
 
 ## Operating System
 
@@ -159,6 +160,7 @@
 * [Hacker Noon](https://hackernoon.com/)
 * [Reddit: Programming](https://www.reddit.com/r/programming/)
 * [Github Awesome](https://github.com/sindresorhus/awesome)
+* [Vaidehi Joshi](https://medium.com/@vaidehijoshi)
 
 ## Articles
 
