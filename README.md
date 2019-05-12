@@ -84,7 +84,7 @@
 
 * [CS161: Berkeley](http://inst.eecs.berkeley.edu/~cs161/)
 
-#### Programming Lanuage and Compiler
+#### Programming Language and Compiler
 
 * [CS164: Berkeley](http://inst.eecs.berkeley.edu/~cs164)
 
@@ -96,7 +96,7 @@
 
 #### Computer Network
 
-* (CS168: Berkeley](http://cs168.io/)
+* [CS168: Berkeley](http://cs168.io/)
 
 ## Cybersecurity
 
@@ -106,6 +106,9 @@
 * [看雪论坛](https://www.kanxue.com/)
 * [CTF入门Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 * [Github: Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources)
+* [Hacker101-CTF](https://ctf.hacker101.com/)
+* [CTFtime](https://ctftime.org/ctf-wtf/)
+* [PicoCTF](https://picoctf.com/)
 
 ### Cryptography
 
@@ -134,6 +137,7 @@
 * [OldLinux](http://www.oldlinux.org/)
 * [x86 Assembly Guide](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 * [Little OS Book](https://littleosbook.github.io/#first-steps)
+* [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   
 ## Compiler
 
