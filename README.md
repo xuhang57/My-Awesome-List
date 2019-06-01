@@ -1,7 +1,6 @@
-:cn::us:
-# My Awesome List [![Awesome](https://awesome.re/badge.svg)](https://github.com/xuhang57/My-Awesome-List) :sunglasses:
+# My Awesome List [![Awesome](https://awesome.re/badge.svg)](https://github.com/xuhang57/My-Awesome-List) :cn::us:
 
-## Programming Languages :bowtie:
+## Programming Languages :sunglasses:
 
 ### Frequently Used
 
@@ -95,11 +94,13 @@
 
 #### Distributed Systems
 
+* [CS15-440/640: CMU](https://www.andrew.cmu.edu/course/15-440/)
+
 #### Computer Network
 
 * [CS168: Berkeley](http://cs168.io/)
 
-## Cybersecurity :neckbeard:
+## Cybersecurity :alien:
 
 ### General
 
@@ -148,16 +149,16 @@
 
 ## Networking :rainbow:
 
-*[HAProxy: Load Balancing](https://www.haproxy.org/)
+* [HAProxy: Load Balancing](https://www.haproxy.org/)
 
-## Computer Architecture
+## Computer Architecture :dash:
 
 * [ProgrammingGroundUp](https://bigsearcher.com/mirrors/nongnu/pgubook/ProgrammingGroundUp-1-0-lettersize.pdf)
 
-## Database
+## Database :star:
 
-*[MongoDB](https://www.mongodb.com/)
-*[MySQL](https://www.mysql.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [MySQL](https://www.mysql.com/)
 
 ## Blogs :boom:
 
