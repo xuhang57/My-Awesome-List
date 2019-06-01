@@ -1,6 +1,7 @@
-# My Awesome List [![Awesome](https://awesome.re/badge.svg)](https://github.com/xuhang57/My-Awesome-List)
+:cn::us:
+# My Awesome List [![Awesome](https://awesome.re/badge.svg)](https://github.com/xuhang57/My-Awesome-List) :sunglasses:
 
-## Programming Languages
+## Programming Languages :bowtie:
 
 ### Frequently Used
 
@@ -98,7 +99,7 @@
 
 * [CS168: Berkeley](http://cs168.io/)
 
-## Cybersecurity
+## Cybersecurity :neckbeard:
 
 ### General
 
@@ -123,7 +124,7 @@
 * [OWASP](https://www.owasp.org/index.php/Main_Page)
 * [Excess XSS](https://excess-xss.com/)
 
-## Algorithm and Data Structure
+## Algorithm and Data Structure :sweat_drops:
 
 * [Algorithms 4th Edition](https://algs4.cs.princeton.edu/home/)
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
@@ -133,7 +134,7 @@
 * [Github: Awesome Algorithm](https://github.com/tayllan/awesome-algorithms)
 * [Tutorialhorizon](https://algorithms.tutorialhorizon.com/)
 
-## Operating System
+## Operating System :punch:
 
 * [OSDev Wiki](https://wiki.osdev.org/)
 * [OldLinux](http://www.oldlinux.org/)
@@ -141,11 +142,13 @@
 * [Little OS Book](https://littleosbook.github.io/#first-steps)
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   
-## Compiler
+## Compiler :japanese_ogre:
 
 * [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
-## Networking
+## Networking :rainbow:
+
+*[HAProxy: Load Balancing](https://www.haproxy.org/)
 
 ## Computer Architecture
 
@@ -153,9 +156,10 @@
 
 ## Database
 
-## Front-End Development
+*[MongoDB](https://www.mongodb.com/)
+*[MySQL](https://www.mysql.com/)
 
-## Blogs
+## Blogs :boom:
 
 * [Matthew Green](https://blog.cryptographyengineering.com/)
 * [Robert Heaton](https://robertheaton.com/)
@@ -168,16 +172,16 @@
 * [Github Awesome](https://github.com/sindresorhus/awesome)
 * [Vaidehi Joshi](https://medium.com/@vaidehijoshi)
 
-## Articles
+## Articles :sparkles:
 
 * [*C Descent* by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Teach Yourself CS](https://teachyourselfcs.com)
 
-## Vlogs
+## Vlogs :ear:
 
 * [10 Mins Coding Challenge](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
-## Coding OJs and Learning Platforms
+## Coding OJs and Learning Platforms :wave:
 
 * [Leetcode](https://leetcode.com)
 * [Hackerrank](http://hackerrank.com)
@@ -186,6 +190,6 @@
 * [Google Developer Path](https://techdevguide.withgoogle.com/paths/)
 * [VIM Adventures](https://vim-adventures.com/)
 
-## References
+## References :eyes:
 
 * [Berkeley EECS Course Catalog](https://www2.eecs.berkeley.edu/Courses/CS/)
