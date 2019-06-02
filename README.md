@@ -142,6 +142,8 @@
 * [x86 Assembly Guide](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 * [Little OS Book](https://littleosbook.github.io/#first-steps)
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
+* [tldq](http://www.tldp.org/guides.html)
+* [Linux From Scratch](http://www.linuxfromscratch.org/lfs/)
   
 ## Compiler :japanese_ogre:
 
@@ -167,10 +169,6 @@
 * [Joel on Software](https://www.joelonsoftware.com/)
 * [Coding Horror](https://blog.codinghorror.com/)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Hacker News](https://news.ycombinator.com/)
-* [Hacker Noon](https://hackernoon.com/)
-* [Reddit: Programming](https://www.reddit.com/r/programming/)
-* [Github Awesome](https://github.com/sindresorhus/awesome)
 * [Vaidehi Joshi](https://medium.com/@vaidehijoshi)
 
 ## Articles :sparkles:
@@ -191,6 +189,16 @@
 * [Google Developer Path](https://techdevguide.withgoogle.com/paths/)
 * [VIM Adventures](https://vim-adventures.com/)
 
+## Online Communities
+
+* [Hacker News](https://news.ycombinator.com/)
+* [Hacker Noon](https://hackernoon.com/)
+* [Reddit: Programming](https://www.reddit.com/r/programming/)
+* [Github Awesome](https://github.com/sindresorhus/awesome)
+* [开源中国](https://www.oschina.net/question/587367_156024)
+* [V2ex](https://www.v2ex.com/)
+
 ## References :eyes:
 
 * [Berkeley EECS Course Catalog](https://www2.eecs.berkeley.edu/Courses/CS/)
+* [Github Awesome: Linux](https://github.com/aleksandar-todorovic/awesome-linux)
