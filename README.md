@@ -156,6 +156,7 @@
 ## Computer Architecture :dash:
 
 * [ProgrammingGroundUp](https://bigsearcher.com/mirrors/nongnu/pgubook/ProgrammingGroundUp-1-0-lettersize.pdf)
+* [Modern Microprocessors](http://www.lighterra.com/papers/modernmicroprocessors/)
 
 ## Database :star:
 
