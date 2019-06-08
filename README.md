@@ -49,6 +49,7 @@
 
 * [Master Bash](https://www.blockloop.io/mastering-bash-and-terminal/)
 * [BASH Guide](https://github.com/Idnan/bash-guide)
+* [Bash Academy](https://guide.bash.academy/)
 
 ### Others
 
@@ -176,6 +177,7 @@
 
 * [*C Descent* by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Teach Yourself CS](https://teachyourselfcs.com)
+* [StackOverflow: Influential Book Every Programmer Should Read](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 
 ## Vlogs :ear:
 
