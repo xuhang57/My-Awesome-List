@@ -178,10 +178,12 @@
 * [*C Descent* by Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [Teach Yourself CS](https://teachyourselfcs.com)
 * [StackOverflow: Influential Book Every Programmer Should Read](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+* [从输入 URL 到页面加载完成的过程中都发生了什么](http://fex.baidu.com/blog/2014/05/what-happen/)
 
 ## Vlogs :ear:
 
 * [10 Mins Coding Challenge](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Philips J. Guo: CPython Internals](http://pgbovine.net/cpython-internals.htm)
 
 ## Coding OJs and Learning Platforms :wave:
 
