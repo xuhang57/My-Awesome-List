@@ -172,6 +172,7 @@
 * [Coding Horror](https://blog.codinghorror.com/)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Vaidehi Joshi](https://medium.com/@vaidehijoshi)
+* [Martin Fowler](https://martinfowler.com/)
 
 ## Articles :sparkles:
 
