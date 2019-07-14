@@ -149,6 +149,8 @@
 ## Compiler :japanese_ogre:
 
 * [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [StackOverflow: Learning to Write a Compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
+* [Ruslan's Blog: Let's build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 
 ## Networking :rainbow:
 
