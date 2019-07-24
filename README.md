@@ -106,14 +106,19 @@
 ### General
 
 * [Hacker101](https://www.hacker101.com/)
-* [CTF入门Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 * [Github: Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources)
-* [Hacker101-CTF](https://ctf.hacker101.com/)
-* [CTFtime](https://ctftime.org/ctf-wtf/)
-* [PicoCTF](https://picoctf.com/)
 * [看雪论坛](https://www.kanxue.com/)
 * [i春秋](https://www.ichunqiu.com/)
 * [SecWiki](https://www.sec-wiki.com/)
+* [The Magic of Learning](https://bitvijays.github.io/)
+
+### Capture the Flag (CTF)
+
+* [CTFtime](https://ctftime.org/ctf-wtf/)
+* [CTF入门Wiki](https://ctf-wiki.github.io/ctf-wiki/)
+* [Hacker101-CTF](https://ctf.hacker101.com/)
+* [PicoCTF](https://picoctf.com/)
+* [Google CTF](https://capturetheflag.withgoogle.com)
 
 ### Cryptography
 
