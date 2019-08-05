@@ -211,6 +211,10 @@
 * [开源中国](https://www.oschina.net/question/587367_156024)
 * [V2ex](https://www.v2ex.com/)
 
+## Raspberry PI
+
+* [树莓派实验](http://shumeipai.nxez.com/)
+
 ## References :eyes:
 
 * [Berkeley EECS Course Catalog](https://www2.eecs.berkeley.edu/Courses/CS/)
