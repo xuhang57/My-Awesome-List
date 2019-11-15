@@ -84,6 +84,7 @@
 #### Computer Security
 
 * [CS161: Berkeley](http://inst.eecs.berkeley.edu/~cs161/)
+* [CS253: Stanford](https://web.stanford.edu/class/cs253/)
 
 #### Programming Language and Compiler
 
