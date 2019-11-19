@@ -52,6 +52,10 @@
 * [Bash Academy](https://guide.bash.academy/)
 * [GNU Bash Reference](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
 
+#### Network Programming
+
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+
 ### Others
 
 * [Devdocs.io](https://devdocs.io/)
