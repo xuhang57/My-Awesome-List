@@ -50,6 +50,7 @@
 * [Master Bash](https://www.blockloop.io/mastering-bash-and-terminal/)
 * [BASH Guide](https://github.com/Idnan/bash-guide)
 * [Bash Academy](https://guide.bash.academy/)
+* [GNU Bash Reference](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
 
 ### Others
 
