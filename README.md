@@ -51,6 +51,7 @@
 * [BASH Guide](https://github.com/Idnan/bash-guide)
 * [Bash Academy](https://guide.bash.academy/)
 * [GNU Bash Reference](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
+* [The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 
 #### Network Programming
 
@@ -156,6 +157,10 @@
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 * [tldq](http://www.tldp.org/guides.html)
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/)
+
+### Burn Iso
+
+* [Etcher](https://www.balena.io/etcher/)
   
 ## Compiler :japanese_ogre:
 
