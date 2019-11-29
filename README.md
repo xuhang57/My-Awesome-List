@@ -157,6 +157,7 @@
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 * [tldq](http://www.tldp.org/guides.html)
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/)
+* [Bootlin: Linux Cross Reference](https://elixir.bootlin.com/linux/v5.4/source/init/main.c)
 
 ### Burn Iso
 
