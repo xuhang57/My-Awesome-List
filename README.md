@@ -19,9 +19,11 @@
 * [Algorithms in Java](https://algs4.cs.princeton.edu/home/)
 * [Java Guide on Github](https://github.com/Snailclimb/JavaGuide)
 * [Advanced Java in Chinese](https://github.com/doocs/advanced-java)
+* [OpenJDK-8 Source Code](https://github.com/xuhang57/OpenJDK-8)
 
 #### Python
 
+* [Python Source Code](https://github.com/python/cpython)
 * [Python Docs](https://docs.python.org/3/)
 * [Django](https://www.djangoproject.com/start/overview/)
 * [Flask](http://flask.pocoo.org/)
@@ -60,6 +62,15 @@
 ### Others
 
 * [Devdocs.io](https://devdocs.io/)
+
+## System Design :floppy_disk:
+
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+## Design Pattern :wrench:
+
+* [Refactoring Guru](https://refactoring.guru/)
+* [Source Making](https://sourcemaking.com/)
 
 ## MOOCs :nerd_face:
 
@@ -214,7 +225,7 @@
 * [Google Developer Path](https://techdevguide.withgoogle.com/paths/)
 * [VIM Adventures](https://vim-adventures.com/)
 
-## Online Communities
+## Online Communities :fork_and_knife:
 
 * [Hacker News](https://news.ycombinator.com/)
 * [Hacker Noon](https://hackernoon.com/)
@@ -223,7 +234,7 @@
 * [开源中国](https://www.oschina.net/question/587367_156024)
 * [V2ex](https://www.v2ex.com/)
 
-## Raspberry PI
+## Raspberry PI :pushpin:
 
 * [树莓派实验](http://shumeipai.nxez.com/)
 
