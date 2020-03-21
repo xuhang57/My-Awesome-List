@@ -20,6 +20,7 @@
 * [Java Guide on Github](https://github.com/Snailclimb/JavaGuide)
 * [Advanced Java in Chinese](https://github.com/doocs/advanced-java)
 * [OpenJDK-8 Source Code](https://github.com/xuhang57/OpenJDK-8)
+* [AliBaba Java Study Guide](https://developer.aliyun.com/article/739908?spm=a2c6h.12873639.0.0.7a6f211eaY5gP3)
 
 #### Python
 
