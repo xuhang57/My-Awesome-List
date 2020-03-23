@@ -47,6 +47,7 @@
 
 * [Cpp Reference](https://en.cppreference.com/w/)
 * [Github: Cplusplus](https://github.com/cplusplus/draft)
+* [A Tour of C++](https://isocpp.org/tour)
 
 #### Bash
 
@@ -194,6 +195,10 @@
 
 * [MongoDB](https://www.mongodb.com/)
 * [MySQL](https://www.mysql.com/)
+
+## Scalability
+
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## Blogs :boom:
 
