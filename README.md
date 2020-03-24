@@ -42,6 +42,10 @@
 #### Go
 
 * [A tour of Go](https://tour.golang.org)
+* [Go: Wiki](https://github.com/golang/go/wiki)
+* [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
+* [Golang Roadmap](https://github.com/dzyanis/roadmap)
+* [Write a Webapp in Golang](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 
 #### C++
 
