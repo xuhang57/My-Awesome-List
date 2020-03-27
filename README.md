@@ -143,6 +143,10 @@
 * [Hacker101-CTF](https://ctf.hacker101.com/)
 * [PicoCTF](https://picoctf.com/)
 * [Google CTF](https://capturetheflag.withgoogle.com)
+* [Microcorruption](https://microcorruption.com/)
+* [Prompt.ml](http://prompt.ml/0)
+* [RedTiger's Hackit](https://redtiger.labs.overthewire.org/)
+* [Wechall](https://www.wechall.net/challs)
 
 ### Cryptography
 
