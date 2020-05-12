@@ -99,6 +99,7 @@
 #### Operating System
 
 * [CS162: Berkeley](https://cs162.eecs.berkeley.edu/)
+* [Hack The Kernel](https://www.ops-class.org/)
 
 #### Computer Architecture
 
