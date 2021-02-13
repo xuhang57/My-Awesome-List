@@ -33,8 +33,6 @@
 
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### For Fun
-
 #### Rust
 
 * [The Rust Book](https://doc.rust-lang.org/)
@@ -46,12 +44,16 @@
 * [Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
 * [Golang Roadmap](https://github.com/dzyanis/roadmap)
 * [Write a Webapp in Golang](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+* [ent in Go](https://entgo.io/docs/getting-started/)
 
 #### C++
 
 * [Cpp Reference](https://en.cppreference.com/w/)
 * [Github: Cplusplus](https://github.com/cplusplus/draft)
 * [A Tour of C++](https://isocpp.org/tour)
+* [C++ Interview](https://interview.huihut.com/#/)
+* [Modern C++ 11/14/17/20](https://changkun.de/modern-cpp/zh-cn/00-preface/)
+* [Microsoft Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-160)
 
 #### Bash
 
@@ -121,6 +123,11 @@
 #### Distributed Systems
 
 * [CS15-440/640: CMU](https://www.andrew.cmu.edu/course/15-440/)
+* [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+* [Github: An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+* [Github: Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+* [All Things Distributed](https://www.allthingsdistributed.com/)
+
 
 #### Computer Network
 
@@ -181,6 +188,11 @@
 * [Linux From Scratch](http://www.linuxfromscratch.org/lfs/)
 * [Bootlin: Linux Cross Reference](https://elixir.bootlin.com/linux/v5.4/source/init/main.c)
 
+### Linux From Scratch
+
+* [Installing From Source](http://moi.vonos.net/linux/beginners-installing-from-source/)
+
+
 ### Burn Iso
 
 * [Etcher](https://www.balena.io/etcher/)
@@ -208,6 +220,14 @@
 ## Scalability
 
 * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+* [Scaling Pinterest](https://www.infoq.com/presentations/pinterest/)
+* [Twitter Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability/)
+
+## Site Reliability Engineering
+
+* [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+* [Github: SRE Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
+* [Github: Interview Preparation for SWE or SRE in Google](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
 
 ## Blogs :boom:
 
@@ -218,6 +238,23 @@
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Vaidehi Joshi](https://medium.com/@vaidehijoshi)
 * [Martin Fowler](https://martinfowler.com/)
+
+### Company Blogs
+
+* [Facebook Engineering](https://engineering.fb.com/)
+* [Tech @ Facebook](https://tech.fb.com/)
+* [Whatsapp](https://blog.whatsapp.com/?lang=en)
+* [Instagram](https://instagram-engineering.com/)
+* [AWS Blog](https://aws.amazon.com/blogs/)
+* [Google Developers](https://developers.googleblog.com/)
+* [AWS Arch Blog](https://aws.amazon.com/blogs/architecture/)
+* [Microsoft Learn Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+* [Netflix](https://netflixtechblog.com/)
+* [Uber](https://eng.uber.com/)
+* [Airbnb Blog](https://medium.com/airbnb-engineering)
+* [LinkedIn Blog](https://engineering.linkedin.com/blog)
+* [Robinhood ENG Blog](https://robinhood.engineering/)
+* [Github](https://github.blog/category/engineering/)
 
 ## Articles :sparkles:
 
