@@ -123,11 +123,7 @@
 #### Distributed Systems
 
 * [CS15-440/640: CMU](https://www.andrew.cmu.edu/course/15-440/)
-* [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
-* [Github: An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
-* [Github: Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
-* [All Things Distributed](https://www.allthingsdistributed.com/)
-
+* [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 #### Computer Network
 
@@ -229,6 +225,15 @@
 * [Github: SRE Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
 * [Github: Interview Preparation for SWE or SRE in Google](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE)
 
+## Distributed Systems
+
+* [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+* [Github: An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+* [Github: Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+* [All Things Distributed](https://www.allthingsdistributed.com/)
+* [Youtube: Distributed System Lecture by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+* [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
+
 ## Blogs :boom:
 
 * [Matthew Green](https://blog.cryptographyengineering.com/)
@@ -262,6 +267,7 @@
 * [Teach Yourself CS](https://teachyourselfcs.com)
 * [StackOverflow: Influential Book Every Programmer Should Read](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
 * [从输入 URL 到页面加载完成的过程中都发生了什么](http://fex.baidu.com/blog/2014/05/what-happen/)
+* [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375)
 
 ## Vlogs :ear:
 
