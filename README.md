@@ -237,11 +237,11 @@
 ## Papers
 
 * [Github: Paper We Love](https://github.com/papers-we-love/papers-we-love)
-* [Ten Papers Every Programmer Should Read At Least Twice](http://web.archive.org/web/20121024173845/http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice)
-* [Ten Papaers](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+* [Ten Papaers Every Programmer Should Read Twice](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [Youtube: Two Minutes Paper](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg/playlists)
 * [Github: Services Engineering](https://github.com/mmcgrana/services-engineering)
 * [Best Paper Awards](https://jeffhuang.com/best_paper_awards/)
+* [Morning Paper](https://blog.acolyer.org/)
 
 ## Blogs :boom:
 
