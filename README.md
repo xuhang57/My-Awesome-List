@@ -106,6 +106,7 @@
 #### Computer Architecture
 
 * [CS152: Berkeley](http://inst.eecs.berkeley.edu/~cs152/)
+* [ECE 4750: Cornell](https://www.csl.cornell.edu/courses/ece4750/details.html)
 
 #### Computer Security
 
